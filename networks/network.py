@@ -61,7 +61,6 @@ class CustomNetwork(nn.Module):
 
     #4. Forward call
     def forward(self, input):
-        # In this function we pass the 3 images and get the 3 embeddings
         "Forward call here"
         pass
 

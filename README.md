@@ -1,16 +1,12 @@
-# PYTORCH COMPUTER VISION TEMPLATE
+# PYTORCH TRAINING TEMPLATE
 
 ## Summmary
-A computer vision template for PyTorch.
+A starter pytorch template for deep learning projects:
 * Data processing
 * Modeling
 * Training
 * Evaluation
-* Visualization
-
-
-
-
+* 
 By @waguy02
 
 
