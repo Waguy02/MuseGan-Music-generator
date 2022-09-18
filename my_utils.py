@@ -5,7 +5,7 @@ from itertools import islice
 import numpy as np
 
 def read_json(path_json):
-    with open(path_json, encoding='utf8') as json_file:
+    with open(path_json,"r", encoding='utf8') as json_file:
         return json.load(json_file)
 def softmax(x):
     return np.exp(x) / np.sum(np.exp(x))

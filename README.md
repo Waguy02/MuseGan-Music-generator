@@ -1,13 +1,3 @@
-# PYTORCH TRAINING TEMPLATE
-
-## Summmary
-A starter pytorch template for deep learning projects:
-* Data processing
-* Modeling
-* Training
-* Evaluation
-* 
-By @waguy02
-
-
+# MuseGan : Neural network for symbolic music generation.
+Inspired from https://github.com/salu133445/ismir2019tutorial/blob/main/musegan.ipynb
 
